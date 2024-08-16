@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arkopaldutt.github.io/sitemap.xml
+Sitemap: https://arkopaldutt.github.io/ai-folio/sitemap.xml
