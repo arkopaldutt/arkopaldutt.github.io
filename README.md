@@ -1,9 +1,4 @@
-# al-folio
-
-<div align="center">
-
-Personal website
-
+## Personal Website
 Uses the brilliant template [ai-folio](https://alshedivat.github.io/al-folio/)
 
 ## License of AI-FOLIO
