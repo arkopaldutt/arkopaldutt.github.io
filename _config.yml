@@ -26,7 +26,6 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 # Extra Special Settings
 # -----------------------------------------------------------------------------
-particle_js: true # Set the use of particle JS
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -277,7 +276,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - particles-js-rails
 
 # Sitemap settings
 defaults:
@@ -321,8 +319,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Dutt]
+  first_name: [Arkopal]
 
   style: apa
   locale: en
